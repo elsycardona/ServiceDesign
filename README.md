@@ -64,10 +64,9 @@ Para llegar a una solución, en la etapa de Ideación se usaron las siguientes h
 
 Como nuestra problématica era bastante compleja, y no hacia referencia a la solución a tráves de alguna interfaz, sino directamente a través de un servicio personalizado; esté se prototipo con una Maqueta física, con la cual pudimos testear el servicio con 6 Usuarios con las caracteristicas necesarias.
 
-____IMAGEN DE LA MAQUETA_____
-_----_imagen de nosotras____-
-....Imagen del testeo______
-
+![equipo](https://raw.githubusercontent.com/elsycardona/ServiceDesign/master/Imagenes/equipo.jpeg)
+![maqueta](https://raw.githubusercontent.com/elsycardona/ServiceDesign/master/Imagenes/maqueta.jpg)
+![testing](https://raw.githubusercontent.com/elsycardona/ServiceDesign/master/Imagenes/pruebaUsuaria.jpg)
 
 Para los Hallazgos del prototipo se utilizó un User Test Analysis Canvas, con la siguiente propuesta de interacción:
 
