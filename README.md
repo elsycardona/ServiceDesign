@@ -14,7 +14,7 @@
 
 ## Introducción
 
-"12.2 millones son adultos mayores, que representan el 9.6% de la población en el país; de estos 12.2 millones, 8.5 millones son usuarios del Banco. Para el 2050, seremos 24.7%, casi 3 veces más; aunado a esto consideremos que cada tres segundos, alguien en el mundo desarrolla demencia, (según la Alzheimer’s Disease International)"
+"_12.2 millones son adultos mayores, que representan el 9.6% de la población en el país; de estos 12.2 millones, 8.5 millones son usuarios del Banco. Para el 2050, seremos 24.7%, casi 3 veces más; aunado a esto consideremos que cada tres segundos, alguien en el mundo desarrolla demencia_"
 
 Como primer proyecto de Service Design, se trabajó de la mano con _TouchPoints_ con la prioridad de rediseñar la interacción que tiene el Usuario con el Cajero. De esta manera, al encontrar una problématica a solucionar se podría planear y ofrecer una mejor Experiencia de Usuario, que al mismo tiempo beneficiaría al Negocio, pudiendo entonces considerar mejor a sus usuarios, y sus futuros usuarios.
 
@@ -24,6 +24,7 @@ Como primer proyecto de Service Design, se trabajó de la mano con _TouchPoints_
 ## Planteamiento del Problema
 
 **UX RESEARCH**
+
 Teniendo en cuenta lo anterior y sin ninguna otra especificación previa, se optó por partir de lo ya conocido, que los Usuarios promedio en México son mexicanos, mayores de edad; abarcando entonces, jóvenes, adultos y personas de la 3ra edad. Para llegar a esto se ordenaron nuestras ideas mediante las [4 w's](https://raw.githubusercontent.com/elsycardona/ServiceDesign/master/Imagenes/Definici%C3%B3n%20del%20problema.jpg).
 
 Se comenzó por hacer un _User Research_, observando a los Usuarios No Digitales y a los Usuarios Digitales.
